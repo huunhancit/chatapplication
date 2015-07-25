@@ -7,5 +7,4 @@
   <li>Hibernate</li>
   <li>JMS</li>
 </ul>
-<p>Thanks,</p>
-<p>Nhan Dinh</p>
+<p>Thanks,<br>Nhan Dinh</p>
