@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.common:scattered-archive-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/scattered-archive-api/4.0/6a5b3a28abe41a447f068819b15333800193e5a2/scattered-archive-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/scattered-archive-api/4.0/4143e8fed00876990d4cb53b94139e5e1a0fe335/scattered-archive-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

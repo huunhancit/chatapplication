@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.core:logging:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.core/logging/4.0/b56920e2758f20d4f427312b2e11857dabbbc036/logging-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.core/logging/4.0/a52cbbd09608d970fa12fd6abd88055fec63ffa1/logging-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

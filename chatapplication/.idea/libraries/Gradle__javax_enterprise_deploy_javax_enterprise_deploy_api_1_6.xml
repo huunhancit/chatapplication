@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.enterprise.deploy:javax.enterprise.deploy-api:1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise.deploy/javax.enterprise.deploy-api/1.6/20fd338dd025eafc226ca90bd7cdcc60015d75d/javax.enterprise.deploy-api-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise.deploy/javax.enterprise.deploy-api/1.6/6efa073e59217c132063ee750e09f2ee660ca163/javax.enterprise.deploy-api-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.external:jmxremote_optional-repackaged:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/jmxremote_optional-repackaged/4.0/67af480af874ea4d23c1dda8b08683ab65e09bb5/jmxremote_optional-repackaged-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/jmxremote_optional-repackaged/4.0/ed39a23c3c2e132e16a449842ae6b48f2749e6c4/jmxremote_optional-repackaged-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

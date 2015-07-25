@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.transaction:jts:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.transaction/jts/4.0/f6c84976a1543024357c2d8074098642e1f7fb23/jts-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.transaction/jts/4.0/3e663459f95b103f05f107ea55a14284080ff9f6/jts-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

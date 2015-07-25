@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.external:ldapbp-repackaged:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/ldapbp-repackaged/4.0/56fda9a81eb52ccf60be57b79e2b86b4d1ea30c1/ldapbp-repackaged-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/ldapbp-repackaged/4.0/ad030f75a48b517ad640c8ee7ec5f9249b009f47/ldapbp-repackaged-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.xml.registry:javax.xml.registry-api:1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.registry/javax.xml.registry-api/1.0.5/ae9ea8c7c73d3d460161be54077b3faab2cc30f/javax.xml.registry-api-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.registry/javax.xml.registry-api/1.0.5/e6855188fff6c6a8cffc2e8e854ff540a4352613/javax.xml.registry-api-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

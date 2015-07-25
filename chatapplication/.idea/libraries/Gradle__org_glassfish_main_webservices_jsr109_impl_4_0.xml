@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.webservices:jsr109-impl:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.webservices/jsr109-impl/4.0/11efb198b52e0e928374cb88aef4583d040ddf61/jsr109-impl-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.webservices/jsr109-impl/4.0/16f91149c6215958fabb75ed323c475baa0d5c41/jsr109-impl-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

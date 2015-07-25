@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.admin:config-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.admin/config-api/4.0/44a62ba7112d5add20db870d4804a759f09d069d/config-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.admin/config-api/4.0/fd555e76d0abc0d2d1d8125c704838bfe7a20e79/config-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

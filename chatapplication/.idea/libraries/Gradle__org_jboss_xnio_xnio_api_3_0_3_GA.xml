@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.xnio:xnio-api:3.0.3.GA">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.xnio/xnio-api/3.0.3.GA/36b0592483bc26f2114b12dde9ec9de9e9984e2d/xnio-api-3.0.3.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.xnio/xnio-api/3.0.3.GA/47801d94bf55e9b0119bd2b7e5eada0b66d8f91b/xnio-api-3.0.3.GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.common:amx-javaee:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/amx-javaee/4.0/25c8ecdd78f2bb18e2122ef6b9b843a9c0eeba65/amx-javaee-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/amx-javaee/4.0/b3025d1df2b15efac0ce039bc986fc9e7dd03cc8/amx-javaee-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

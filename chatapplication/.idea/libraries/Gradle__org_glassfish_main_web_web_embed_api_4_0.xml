@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.web:web-embed-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/web-embed-api/4.0/3ad6e1e2580d7e1a69226d32f6cccf6f986fbf93/web-embed-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/web-embed-api/4.0/cb409ba4f1c152e064c90df95b1ad38ff98cda0/web-embed-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

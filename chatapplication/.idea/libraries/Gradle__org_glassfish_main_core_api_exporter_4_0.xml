@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.core:api-exporter:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.core/api-exporter/4.0/a6c5ffe71e5a7e110ad6a3a1d7a0ed3539bcf737/api-exporter-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.core/api-exporter/4.0/6a5d6fde7285a778311f3799c4817f5348d94642/api-exporter-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

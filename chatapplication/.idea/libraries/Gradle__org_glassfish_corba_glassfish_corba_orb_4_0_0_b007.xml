@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.corba:glassfish-corba-orb:4.0.0-b007">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.corba/glassfish-corba-orb/4.0.0-b007/ea82deecf7f2ac4aaa043f897a418a74a4cf87db/glassfish-corba-orb-4.0.0-b007.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.corba/glassfish-corba-orb/4.0.0-b007/4e8973d330e62eef0fe06d8dbf4e88920d454dab/glassfish-corba-orb-4.0.0-b007-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

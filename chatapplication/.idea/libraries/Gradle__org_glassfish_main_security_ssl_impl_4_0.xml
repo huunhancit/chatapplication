@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.security:ssl-impl:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.security/ssl-impl/4.0/8731012e5e05216798f7cff6bd26b244101e8097/ssl-impl-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.security/ssl-impl/4.0/96aac1dbb19f18283e5feadd01c2b08546ea43a4/ssl-impl-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

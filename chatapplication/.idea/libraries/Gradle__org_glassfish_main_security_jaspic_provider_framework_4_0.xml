@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.security:jaspic.provider.framework:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.security/jaspic.provider.framework/4.0/bc0cd657cac2a9451e07d5d4578182c4c3e94209/jaspic.provider.framework-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.security/jaspic.provider.framework/4.0/9440faf7296042de3cccc9b17bab1c42651d0e74/jaspic.provider.framework-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

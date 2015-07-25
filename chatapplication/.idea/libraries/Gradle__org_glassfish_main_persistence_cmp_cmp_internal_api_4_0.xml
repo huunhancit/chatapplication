@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.persistence.cmp:cmp-internal-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.persistence.cmp/cmp-internal-api/4.0/9cf72e683756e8626eef7cc9405029b214425553/cmp-internal-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.persistence.cmp/cmp-internal-api/4.0/ca4f1993b0983598e6f005d6ae5ab317a640611e/cmp-internal-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

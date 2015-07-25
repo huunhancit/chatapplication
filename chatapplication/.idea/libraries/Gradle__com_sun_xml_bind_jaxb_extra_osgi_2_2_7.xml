@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sun.xml.bind:jaxb-extra-osgi:2.2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-extra-osgi/2.2.7/fbbdac1b5510ae8aef874e1a0c69b882c1a06f9a/jaxb-extra-osgi-2.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-extra-osgi/2.2.7/b7a99686404f4f7ebf032ba3288c63fb8c824e8e/jaxb-extra-osgi-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

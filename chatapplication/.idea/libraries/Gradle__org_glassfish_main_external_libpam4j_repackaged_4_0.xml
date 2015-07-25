@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.external:libpam4j-repackaged:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/libpam4j-repackaged/4.0/ada26875abbba0e0ae02fbac093828dc3c7f2c70/libpam4j-repackaged-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/libpam4j-repackaged/4.0/cc0437cdebba45affca77c27303655f08031f369/libpam4j-repackaged-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

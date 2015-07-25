@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.orb:orb-enabler:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.orb/orb-enabler/4.0/60f5477528dc73edb57c3775f2f07eb85edd19ab/orb-enabler-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.orb/orb-enabler/4.0/a8afbbfaed785cce3f2c5c2dba19121ae32af227/orb-enabler-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

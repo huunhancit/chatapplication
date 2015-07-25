@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.threads:jboss-threads:2.0.0.GA">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.threads/jboss-threads/2.0.0.GA/959b2c24987f7f38fea02c06d818bf65e49e7795/jboss-threads-2.0.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.threads/jboss-threads/2.0.0.GA/71b7a007dc83f272a948bac3348cb08889697b2/jboss-threads-2.0.0.GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

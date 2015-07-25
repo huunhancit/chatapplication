@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.deployment:dol:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.deployment/dol/4.0/bbcdb108176e0da1502b78488aca7585aec9e0ba/dol-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.deployment/dol/4.0/1e720deac3d786a6bb625f1ce62f71615f3feb98/dol-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

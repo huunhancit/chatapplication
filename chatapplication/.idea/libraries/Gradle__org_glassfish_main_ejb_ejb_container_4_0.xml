@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.ejb:ejb-container:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.ejb/ejb-container/4.0/8f2e660a5d0e102fe6001bf371d6e67fb1c4207b/ejb-container-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.ejb/ejb-container/4.0/f18e716e4d73d108500acf927fde8439fd1b07d8/ejb-container-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

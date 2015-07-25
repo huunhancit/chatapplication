@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.management.j2ee:javax.management.j2ee-api:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.management.j2ee/javax.management.j2ee-api/1.1.1/dfa282cea1495277168697cb5c349ec29f82947c/javax.management.j2ee-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.management.j2ee/javax.management.j2ee-api/1.1.1/56e25698cecdadd443db5e21454ada839abed948/javax.management.j2ee-api-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

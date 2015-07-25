@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.sasl:jboss-sasl:1.0.0.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.sasl/jboss-sasl/1.0.0.Final/2ed012f8a26318149ad497ee316fad9f150214fc/jboss-sasl-1.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.sasl/jboss-sasl/1.0.0.Final/22821d5d1533cc059e9b9ceacf97f8ecdbfb0ae2/jboss-sasl-1.0.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

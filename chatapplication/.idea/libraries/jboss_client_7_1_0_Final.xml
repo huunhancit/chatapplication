@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-client-7.1.0.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Install/jboss-as-7.1.0.Final/bin/client/jboss-client-7.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

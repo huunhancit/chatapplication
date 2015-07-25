@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.web:web-gui-plugin-common:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/web-gui-plugin-common/4.0/99a4ac951667556479f63058a7c7f4ad98e36909/web-gui-plugin-common-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/web-gui-plugin-common/4.0/b76cae48401ddb5edacf87412aa91b2d7316fe67/web-gui-plugin-common-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

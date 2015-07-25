@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.shoal:shoal-gms-api:1.6.18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.shoal/shoal-gms-api/1.6.18/bf943ed4b524999b414a7565a990374cfe1c7200/shoal-gms-api-1.6.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.shoal/shoal-gms-api/1.6.18/379c21cc0b90d89d8fd26bf64e500276d3f9d17e/shoal-gms-api-1.6.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

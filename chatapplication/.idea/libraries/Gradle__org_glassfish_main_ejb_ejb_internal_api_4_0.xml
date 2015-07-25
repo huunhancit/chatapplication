@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.ejb:ejb-internal-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.ejb/ejb-internal-api/4.0/9db4c5a639fa23ac161d1bce6d4e460a436f9218/ejb-internal-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.ejb/ejb-internal-api/4.0/c836da3309253d968a4fedd418831de7121732ae/ejb-internal-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.metro:webservices-osgi:2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.metro/webservices-osgi/2.3/d35b23ed7a151644ef8f6a4fdaf5e0376e6aa76e/webservices-osgi-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.metro/webservices-osgi/2.3/b1966ebf5a645a63ea22e9d6fc72bef81155944f/webservices-osgi-2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

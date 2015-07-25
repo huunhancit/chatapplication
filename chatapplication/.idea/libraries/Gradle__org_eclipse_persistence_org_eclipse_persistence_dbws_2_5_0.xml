@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.persistence:org.eclipse.persistence.dbws:2.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/org.eclipse.persistence.dbws/2.5.0/6c92dfb0a94541f9949c0ca256043edfa3110474/org.eclipse.persistence.dbws-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/org.eclipse.persistence.dbws/2.5.0/62c3b6153f5b6a446536f5eedf8741a18bc1fa2e/org.eclipse.persistence.dbws-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

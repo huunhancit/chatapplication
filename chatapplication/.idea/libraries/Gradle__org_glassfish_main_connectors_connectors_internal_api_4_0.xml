@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.connectors:connectors-internal-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.connectors/connectors-internal-api/4.0/3643bd399ce1d56f882e7fab3fce748fab4e3a82/connectors-internal-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.connectors/connectors-internal-api/4.0/7f13f1bb013988694984d3127b5a879e8b659ab3/connectors-internal-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

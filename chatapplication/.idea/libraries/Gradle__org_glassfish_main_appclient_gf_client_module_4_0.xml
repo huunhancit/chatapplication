@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.appclient:gf-client-module:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.appclient/gf-client-module/4.0/245d3d64c84fce035cd9c05846968cea6cc14252/gf-client-module-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.appclient/gf-client-module/4.0/89add220379dce05a768115adf82f6bcdf25d0ad/gf-client-module-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

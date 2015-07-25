@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.jms:gf-jms-connector:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.jms/gf-jms-connector/4.0/f6cf42a7ba0ea982bf603b1e51a1d06ab3849334/gf-jms-connector-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.jms/gf-jms-connector/4.0/59fd41857a8dfe3004f03f6291ebbb03eacbeea/gf-jms-connector-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

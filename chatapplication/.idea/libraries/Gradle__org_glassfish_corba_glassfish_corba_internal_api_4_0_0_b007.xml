@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.corba:glassfish-corba-internal-api:4.0.0-b007">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.corba/glassfish-corba-internal-api/4.0.0-b007/4a21bdf5322ba837367a474ae6acfc5997f178f5/glassfish-corba-internal-api-4.0.0-b007.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.corba/glassfish-corba-internal-api/4.0.0-b007/b2c93cc0bcf503f89de1a4f7dc2de4d9a363036c/glassfish-corba-internal-api-4.0.0-b007-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.cluster:gms-bootstrap:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.cluster/gms-bootstrap/4.0/42db1991bca9bf6ac30f77a384dc919e388558dc/gms-bootstrap-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.cluster/gms-bootstrap/4.0/898e294a2f76140c18bbb6cace1a66b789fe0447/gms-bootstrap-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

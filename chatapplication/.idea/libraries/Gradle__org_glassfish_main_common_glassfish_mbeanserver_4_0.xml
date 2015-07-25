@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.common:glassfish-mbeanserver:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/glassfish-mbeanserver/4.0/dc77aca2c2844371cc8fc6890701176941606015/glassfish-mbeanserver-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/glassfish-mbeanserver/4.0/4267176d83cb525ce9f307cb69c1f4e973459e51/glassfish-mbeanserver-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

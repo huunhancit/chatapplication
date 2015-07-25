@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.persistence:persistence-common:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.persistence/persistence-common/4.0/692338feb8fe52c51e139bfd279f68594aba9d70/persistence-common-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.persistence/persistence-common/4.0/d443aa8558590c726be82ed0a5b8dae0fe190cdf/persistence-common-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

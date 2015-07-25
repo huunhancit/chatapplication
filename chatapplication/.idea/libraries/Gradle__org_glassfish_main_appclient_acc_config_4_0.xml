@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.appclient:acc-config:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.appclient/acc-config/4.0/4aa9d49e1898dd4f627228f4494f0eced21f6a4c/acc-config-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.appclient/acc-config/4.0/a366b818aff6f3514c416cbb62662a6ae9cab4c2/acc-config-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

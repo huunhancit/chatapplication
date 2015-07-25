@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.web:web-glue:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/web-glue/4.0/2f2bed11224913e0df154565b6ec47a13146724e/web-glue-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/web-glue/4.0/23bc36b04f25de2628da953b2fe5037f5aa2cb2d/web-glue-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

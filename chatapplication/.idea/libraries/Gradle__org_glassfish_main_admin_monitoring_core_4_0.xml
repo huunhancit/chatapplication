@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.admin:monitoring-core:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.admin/monitoring-core/4.0/430151196e9f270023b42afbfcbc1e22ff7f632b/monitoring-core-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.admin/monitoring-core/4.0/1926a1676def92db3c663c17f50fef3335afe18/monitoring-core-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

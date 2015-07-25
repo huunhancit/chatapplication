@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.deployment:deployment-common:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.deployment/deployment-common/4.0/4cb4a687d285c0d122c6e16c003c1653662143b2/deployment-common-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.deployment/deployment-common/4.0/99fc98cb733de5ede39a5b57335c17125db3009/deployment-common-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

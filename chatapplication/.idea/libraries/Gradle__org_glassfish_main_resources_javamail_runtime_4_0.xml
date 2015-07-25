@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.resources:javamail-runtime:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.resources/javamail-runtime/4.0/7fa8e4958d7c75c47ef5a9350c1107751c6eb14/javamail-runtime-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.resources/javamail-runtime/4.0/bf4c45e87163dd3ca4b3b6fe48244b34843aaf91/javamail-runtime-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.appclient.server:appclient-connector:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.appclient.server/appclient-connector/4.0/1b94014620ba16d2bd982a479373cf56e24ce4ec/appclient-connector-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.appclient.server/appclient-connector/4.0/687dc1dc1558dfed024b8a223c9c5fb3d1ecd94d/appclient-connector-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

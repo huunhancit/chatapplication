@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.connectors:gf-connectors-connector:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.connectors/gf-connectors-connector/4.0/6eee97ea56e7138bb60b3014334c7cb83d0c3c2e/gf-connectors-connector-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.connectors/gf-connectors-connector/4.0/8bf62cbec2064e2737176e3c5b87c6edd8672ac3/gf-connectors-connector-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

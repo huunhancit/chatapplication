@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.security:security-services:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.security/security-services/4.0/75d74439fcacf50a76d706a9e81b4061a8ffe427/security-services-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.security/security-services/4.0/406861f6d5d97950b37f9e7125502660ef596571/security-services-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

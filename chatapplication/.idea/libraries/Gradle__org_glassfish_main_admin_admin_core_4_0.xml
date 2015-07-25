@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.admin:admin-core:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.admin/admin-core/4.0/607b34dcb22dddc6a759415cace82ef4a2ccf516/admin-core-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.admin/admin-core/4.0/48c9dcfead6c0ccbed9c70b1c4dd454c48b5f7f0/admin-core-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

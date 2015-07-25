@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.common:glassfish-naming:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/glassfish-naming/4.0/918c8f6bbac3664e82e68fcdee876bbd41de59dd/glassfish-naming-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/glassfish-naming/4.0/7f6b550f38813ed37d74593196a72e872f2f5d1b/glassfish-naming-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

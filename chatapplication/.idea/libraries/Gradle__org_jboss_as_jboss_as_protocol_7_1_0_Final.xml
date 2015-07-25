@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.as:jboss-as-protocol:7.1.0.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.as/jboss-as-protocol/7.1.0.Final/1f4ee6577e50f1b28ec75ccb9586a0bd9f360287/jboss-as-protocol-7.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.as/jboss-as-protocol/7.1.0.Final/7a52f9ad1c5f5fd20a051ff760f1d0480b69734c/jboss-as-protocol-7.1.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

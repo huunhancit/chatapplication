@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.grizzly:nucleus-grizzly-all:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.grizzly/nucleus-grizzly-all/4.0/cab103102ba49ab827180d91034b4e8dd649e95/nucleus-grizzly-all-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.grizzly/nucleus-grizzly-all/4.0/4ef7807ad2f3438c35bc9e7d480e44e8334ac38f/nucleus-grizzly-all-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.external:management-api:3.2.0-b001">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.external/management-api/3.2.0-b001/f3fe1379ae2859a659c24a347c71199365c6f1dc/management-api-3.2.0-b001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.external/management-api/3.2.0-b001/ecd30dcdd6b02362b3f605d78ead4520f1218438/management-api-3.2.0-b001-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

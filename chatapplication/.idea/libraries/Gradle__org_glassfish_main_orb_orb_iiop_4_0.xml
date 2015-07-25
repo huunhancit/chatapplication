@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.orb:orb-iiop:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.orb/orb-iiop/4.0/d2056ec0b415cb28da4e6c8697a145aba462239e/orb-iiop-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.orb/orb-iiop/4.0/2d2e859c39e61afad33fe2505592dd2188a90c36/orb-iiop-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

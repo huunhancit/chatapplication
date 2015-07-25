@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.transaction:transaction-internal-api:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.transaction/transaction-internal-api/4.0/9ccb020361a6508aa69fbe0c7d09f7f55186eac6/transaction-internal-api-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.transaction/transaction-internal-api/4.0/8eee94306ab0ddd035bb63262ff5a50c2d0e2c63/transaction-internal-api-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

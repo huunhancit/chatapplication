@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.flashlight:flashlight-framework:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.flashlight/flashlight-framework/4.0/df174ff00435531b22ed4eb43b3fbd5ea14f18f6/flashlight-framework-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.flashlight/flashlight-framework/4.0/50436b3cc10dba7eded7f041c4f927ad63ba7d90/flashlight-framework-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

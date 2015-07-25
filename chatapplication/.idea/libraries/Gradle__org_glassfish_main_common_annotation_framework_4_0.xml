@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.common:annotation-framework:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/annotation-framework/4.0/997b8da75e3a1913190e72fce8c519f908987ca6/annotation-framework-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.common/annotation-framework/4.0/fe1b34fdeed16b51d24a7845d1b8fa0d377ca6b7/annotation-framework-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

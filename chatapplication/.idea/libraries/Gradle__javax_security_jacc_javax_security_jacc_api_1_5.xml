@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.security.jacc:javax.security.jacc-api:1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.security.jacc/javax.security.jacc-api/1.5/5cfdc878b7a5a533f373493be9f7b24e34c01800/javax.security.jacc-api-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.security.jacc/javax.security.jacc-api/1.5/98c85f5a957b317e16142533334ccf74c242d378/javax.security.jacc-api-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

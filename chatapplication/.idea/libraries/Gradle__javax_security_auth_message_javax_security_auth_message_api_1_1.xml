@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.security.auth.message:javax.security.auth.message-api:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.security.auth.message/javax.security.auth.message-api/1.1/bb172e8ffde9fc1b0abee5ae38dc6f5b68493ce2/javax.security.auth.message-api-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.security.auth.message/javax.security.auth.message-api/1.1/72be0883135da0851114198fb219364054a64355/javax.security.auth.message-api-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

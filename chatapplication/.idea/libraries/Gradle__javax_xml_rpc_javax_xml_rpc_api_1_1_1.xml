@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.xml.rpc:javax.xml.rpc-api:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.rpc/javax.xml.rpc-api/1.1.1/e21e7f033112bc4bcf54234edb5aa5d782d4b568/javax.xml.rpc-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml.rpc/javax.xml.rpc-api/1.1.1/95af0ad6d57aaf356fc6afba7eadd03b2bf9d143/javax.xml.rpc-api-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

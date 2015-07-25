@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.persistence:jpa-container:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.persistence/jpa-container/4.0/84e7edb490cee32052cf7c93e6baf7b46dfab192/jpa-container-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.persistence/jpa-container/4.0/8243031e81d148cd5dd8567f4024ae96ddfcecda/jpa-container-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

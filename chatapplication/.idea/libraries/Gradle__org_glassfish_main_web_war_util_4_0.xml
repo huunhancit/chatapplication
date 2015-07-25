@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.web:war-util:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/war-util/4.0/cccbe7883d57859114b6fc970b94831b3d744ffb/war-util-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.web/war-util/4.0/f647f10fde0f88639e4e4da603b7568c08f0d884/war-util-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

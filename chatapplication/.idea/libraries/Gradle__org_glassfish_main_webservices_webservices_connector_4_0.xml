@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.webservices:webservices-connector:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.webservices/webservices-connector/4.0/7143a4dab412adf21b905cb7475fc604b0137e67/webservices-connector-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.webservices/webservices-connector/4.0/f54911209831e61c4f9ac23d850a63b7c0108b21/webservices-connector-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

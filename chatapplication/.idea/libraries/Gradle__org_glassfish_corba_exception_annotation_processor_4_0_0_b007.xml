@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.corba:exception-annotation-processor:4.0.0-b007">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.corba/exception-annotation-processor/4.0.0-b007/48e8f6a0a2e86e2c6d0f7045d7908ac5e067fb3d/exception-annotation-processor-4.0.0-b007.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.corba/exception-annotation-processor/4.0.0-b007/3413bee5fcd60b648445b2fa61b8fb256ee0a6cb/exception-annotation-processor-4.0.0-b007-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

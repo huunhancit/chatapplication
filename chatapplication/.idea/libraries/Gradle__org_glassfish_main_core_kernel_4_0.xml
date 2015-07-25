@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.core:kernel:4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.core/kernel/4.0/81488c9375895ccbed7ddd8edae5be6fd1913675/kernel-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.core/kernel/4.0/2d06b48707fea73ad9ba23444b14dfcc9e0228eb/kernel-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
